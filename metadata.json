@@ -1,0 +1,6 @@
+{
+  "name": "MANET-SAFE Disaster Network Simulator",
+  "description": "Secure, Adaptive and Energy-Aware Mobile Ad-hoc Network Simulator for Disaster Management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
